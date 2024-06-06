@@ -6,13 +6,13 @@ Thiago, segue abaixo o exercicio 3.
 
 3)  Trazer COD_OPERADORA, NUM_CONTRATO,  CID_CONTRATO, STATUS, VENCTO_CTR, ID_ITEM_EXTRATO, ID_TIPO_ITEM_EXTRATO, DESCRICAO_TIPO_ITEM_EXTRATO, VENCTO_ITEM_EXTRATO, DT_LANCAMENTO, VALOR, ID_COBRANCA E ITEM_LF(SIM/NAO), para os contratos da planilha 02. 
 
-Verificações:
-•  Se o contrato existe na base, em caso negativo retornar a seguinte informação: ‘CONTRATO NÃO ENCONTRADO. 
-•  Se o item de extrato estiver em lançamento futuro retornar ‘SIM’ na coluna ITEM_LF(SIM/NAO), senão retornar ‘NAO’.
+VerificaÃ§Ãµes:
+â€¢  Se o contrato existe na base, em caso negativo retornar a seguinte informaÃ§Ã£o: â€˜CONTRATO NÃƒO ENCONTRADO. 
+â€¢  Se o item de extrato estiver em lanÃ§amento futuro retornar â€˜SIMâ€™ na coluna ITEM_LF(SIM/NAO), senÃ£o retornar â€˜NAOâ€™.
 
 Utilizar o metodo de carga na PROD_JD.SN_ONGOING_QUALIDADE.
 
-subir lanilha da bel,bel
+
 */
 
 
